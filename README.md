@@ -7,8 +7,23 @@ Astrocosmos currently is a fun galactic-scale worldbuilding project about space 
 > More explanation in the WIP Wiki!
 
 # Features
+
 - Military Units
 - Spaceships Classification
 - Ship Naming System
 - Non-Space Trasnportation (InDev)
 - Galaxy and Planets (InDev)
+
+# Pop Cultures References
+
+> If i miss something, add it via issue with the label "suggestion"!
+
+- Battlestar Galacctica
+- Eve Online
+- Mass Effect
+- Sins of Solar Empire
+- Star Sector
+- Star Trel
+- **Star Wars**
+- Stellaris
+
