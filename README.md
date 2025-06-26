@@ -14,8 +14,9 @@ Astrocosmos currently is a fun galactic-scale worldbuilding project about space 
 - Non-Space Trasnportation (InDev)
 - Galaxy and Planets (InDev)
 
-# Pop Cultures References
+# References
 
+## Pop Cultures
 > If i miss something, add it via issue with the label "suggestion"!
 
 - Battlestar Galactica
@@ -24,6 +25,13 @@ Astrocosmos currently is a fun galactic-scale worldbuilding project about space 
 - Sins of Solar Empire
 - Star Sector
 - Star Trek
-- **Star Wars**
+- **Star Wars** (via [Wookiepedia](https://starwars.fandom.com/wiki/Main_Page))
 - Stellaris
 
+## Youtube Channels
+
+> WIP
+
+## Websites
+
+> WIP
