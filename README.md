@@ -18,12 +18,12 @@ Astrocosmos currently is a fun galactic-scale worldbuilding project about space 
 
 > If i miss something, add it via issue with the label "suggestion"!
 
-- Battlestar Galacctica
+- Battlestar Galactica
 - Eve Online
 - Mass Effect
 - Sins of Solar Empire
 - Star Sector
-- Star Trel
+- Star Trek
 - **Star Wars**
 - Stellaris
 
