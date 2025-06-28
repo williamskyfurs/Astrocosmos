@@ -14,7 +14,7 @@ Astrocosmos currently is a fun galactic-scale worldbuilding project about space 
 - Non-Space Trasnportation (InDev)
 - Galaxy and Planets (InDev)
 
-# References
+# Worldbuilding References
 
 ## Pop Cultures
 > If i miss something, add it via issue with the label "suggestion"!
