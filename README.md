@@ -15,22 +15,31 @@ Astrocosmos currently is a fun galactic-scale worldbuilding project about space 
 - Galaxy and Planets (InDev)
 
 # References
+> If i miss something, add it via issue with the label "suggestion"!
+
+> The one in bold is the main reference for this worldbuilding
+
 
 ## Pop Cultures
-> If i miss something, add it via issue with the label "suggestion"!
 
 - Battlestar Galactica
 - Eve Online
+- Endless Sky
 - Mass Effect
+- Project Hail Mary (Movie)
 - Sins of Solar Empire
 - Star Sector
 - Star Trek
-- **Star Wars** (via [Wookiepedia](https://starwars.fandom.com/wiki/Main_Page))
+- Star Valor
+- **Star Wars** (Movies and Games) (via [Wookiepedia](https://starwars.fandom.com/wiki/Main_Page))
 - Stellaris
 
-## Youtube Channels
+## Channels
 
 > WIP
+
+- [Spacedock](https://www.youtube.com/@Spacedock) (YouTube)
+- [The Templin Institute](https://www.youtube.com/@TemplinInstitute) (YouTube)
 
 ## Websites
 
