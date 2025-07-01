@@ -19,7 +19,6 @@ Astrocosmos currently is a fun galactic-scale worldbuilding project about space 
 
 > The one in bold is the main reference for this worldbuilding
 
-
 ## Pop Cultures
 
 - Battlestar Galactica
