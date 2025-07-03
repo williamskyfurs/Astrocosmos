@@ -19,55 +19,87 @@ Astrocosmos currently is a fun galactic-scale worldbuilding project about space 
 # References
 > If i miss something, add it via issue with the label "suggestion"!
 
-> The one in bold is the main reference for this worldbuilding
+> The one in highlight is the main reference for this worldbuilding
 
 ## Space Games
 
-- ∆V: Rings of Saturn
-- Astrometica
-- Astroneer
-- Avorion
-- Battlefleet Gothic
-- Battlestar Galacctica
-- Children of a Dead Earth
-- Cosmoteer
-- Earth From Another Sun
-- Elite Dangerous
-- Empyrion
-- Eve Online
-- Everspace
-- Exodus
-- Final Theory
-- G-Rebels
-- Jump Ship
-- Kerbal Space Program
-- Mass Effect
-- Nexus: The Jupiter Accident
-- Pulsar
-- Rebel Galaxy
-- Shadow Empire
-- Sins of Solar Empire
-- Space Engine
-- Space Engineers
-- Space Haven
-- SpaceBourne
-- SpaceCraft
-- Star General
-- Star Sector
-- Star Traders
-- Star Trek
-- Star Trucker
-- **Star Wars** (via [Wookiepedia](https://starwars.fandom.com/wiki/Main_Page))
-- Starcom
-- Starminer
-- StarRupture
-- Stellar Warfare
-- Stellaris
-- Transcendence
-- Underspace
-- Universe Sandbox
-- X4 Foundations
-- Xerxes Shadow
+List of games that have space theme. Mostly these games below will be converged and tailored to match the main lore of Astrocosmos.
+
+<details>
+<summary>📜 List of Space Games</summary>
+
+| Num. | Name                        | Strategy | ? | Sim | Reference                                                  |
+| ---- | --------------------------- | -------- | - | --- | ---------------------------------------------------------- |
+| 1    | ∆V: Rings of Saturn         |          |   |     |                                                            |
+| 2    | Astrometica                 |          |   |     |                                                            |
+| 3    | Astroneer                   |          |   |     |                                                            |
+| 4    | Avorion                     |          |   | ✅   |                                                            |
+| 5    | Battlefleet Gothic          |          |   |     |                                                            |
+| 6    | Battlestar Galacctica       |          |   |     |                                                            |
+| 7    | Children of a Dead Earth    |          |   |     |                                                            |
+| 8    | Cosmoteer                   |          |   |     |                                                            |
+| 9    | Distant Worlds              | ✅        |   |     |                                                            |
+| 10   | Earth From Another Sun      |          |   |     |                                                            |
+| 11   | Elite Dangerous             |          |   | ✅   |                                                            |
+| 12   | Emperor of the Fading Suns  | ✅        |   |     |                                                            |
+| 13   | Empyrion                    |          |   | ✅   |                                                            |
+| 14   | Endless Space               | ✅        | ✅ |     |                                                            |
+| 15   | Eve Online                  |          | ✅ |     |                                                            |
+| 16   | Everspace                   |          |   | ✅   |                                                            |
+| 17   | Exodus                      |          |   |     |                                                            |
+| 18   | Final Theory                |          |   |     |                                                            |
+| 19   | Galactic Ruler              | ✅        |   |     |                                                            |
+| 20   | G-Rebels                    |          |   |     |                                                            |
+| 21   | Homeworld Remastered        | ✅        |   |     |                                                            |
+| 22   | Interstellar Space          | ✅        |   |     |                                                            |
+| 23   | Jump Ship                   |          |   |     |                                                            |
+| 24   | Kerbal Space Program        |          | ✅ | ✅   |                                                            |
+| 25   | Liberation                  |          | ✅ |     |                                                            |
+| 26   | Mass Effect                 |          | ✅ |     |                                                            |
+| 27   | Master of Orion             | ✅        |   |     |                                                            |
+| 28   | Miles From Tommorrowland    |          |   |     |                                                            |
+| 29   | Nexus 5X                    | ✅        |   |     |                                                            |
+| 30   | Nexus: The Jupiter Accident |          |   |     |                                                            |
+| 31   | No Man's Sky                |          |   | ✅   |                                                            |
+| 32   | Outer Wilds                 |          |   | ✅   |                                                            |
+| 33   | Project Hail Mary           |          |   |     |                                                            |
+| 34   | Pulsar                      |          |   |     |                                                            |
+| 35   | Rebel Galaxy                |          |   |     |                                                            |
+| 36   | Shadow Empire               |          |   |     |                                                            |
+| 37   | Sins of Solar Empire        |          |   |     |                                                            |
+| 38   | Space Engine                |          | ✅ | ✅   |                                                            |
+| 39   | Space Engineers             |          |   | ✅   |                                                            |
+| 40   | Space Haven                 |          |   |     |                                                            |
+| 41   | SpaceBourne                 |          |   |     |                                                            |
+| 42   | SpaceCraft                  |          |   |     |                                                            |
+| 43   | Star Citizen                |          | ✅ | ✅   |                                                            |
+| 44   | Star Dynasties              | ✅        |   |     |                                                            |
+| 45   | Star General                |          |   |     |                                                            |
+| 46   | Star Ruler                  | ✅        |   |     |                                                            |
+| 47   | Star Sector                 |          | ✅ |     |                                                            |
+| 48   | Star Traders                |          | ✅ |     |                                                            |
+| 49   | Star Trek                   |          |   |     |                                                            |
+| 50   | Star Trucker                |          |   |     |                                                            |
+| 51   | **Star Wars**                   | ✅        | ✅ | ✅   | [Wookiepedia](https://starwars.fandom.com/wiki/Main_Page) |
+| 52   | Starbase                    |          |   | ✅   |                                                            |
+| 53   | Starcom                     |          | ✅ |     |                                                            |
+| 54   | Starfield                   |          |   | ✅   |                                                            |
+| 55   | Starminer                   |          |   |     |                                                            |
+| 56   | StarRupture                 |          |   |     |                                                            |
+| 57   | Stars in Shadow             | ✅        |   |     |                                                            |
+| 58   | Starsector                  | ✅        |   |     |                                                            |
+| 59   | Stellar Monarch             | ✅        |   |     |                                                            |
+| 60   | Stellar Warfare             |          |   |     |                                                            |
+| 61   | Stellaris                   | ✅        |   |     |                                                            |
+| 62   | Sword of the Stars          | ✅        |   |     |                                                            |
+| 63   | Terra Invicta               | ✅        |   |     |                                                            |
+| 64   | Transcendence               |          |   |     |                                                            |
+| 65   | Underspace                  |          |   |     |                                                            |
+| 66   | Universe Sandbox            |          |   |     |                                                            |
+| 67   | X4 Foundations              |          |   | ✅   |                                                            |
+| 68   | Xerxes Shadow               |          |   |     |                                                            |
+
+</details>
 
 ## Space Franchises
 
