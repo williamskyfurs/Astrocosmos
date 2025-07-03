@@ -21,19 +21,59 @@ Astrocosmos currently is a fun galactic-scale worldbuilding project about space 
 
 > The one in bold is the main reference for this worldbuilding
 
-## Pop Cultures
+## Space Games
 
-- Battlestar Galactica
+- ∆V: Rings of Saturn
+- Astrometica
+- Astroneer
+- Avorion
+- Battlefleet Gothic
+- Battlestar Galacctica
+- Children of a Dead Earth
+- Cosmoteer
+- Earth From Another Sun
+- Elite Dangerous
+- Empyrion
 - Eve Online
-- Endless Sky
+- Everspace
+- Exodus
+- Final Theory
+- G-Rebels
+- Jump Ship
+- Kerbal Space Program
 - Mass Effect
-- Project Hail Mary (Movie)
+- Nexus: The Jupiter Accident
+- Pulsar
+- Rebel Galaxy
+- Shadow Empire
 - Sins of Solar Empire
+- Space Engine
+- Space Engineers
+- Space Haven
+- SpaceBourne
+- SpaceCraft
+- Star General
 - Star Sector
+- Star Traders
 - Star Trek
-- Star Valor
-- **Star Wars** (Movies and Games) (via [Wookiepedia](https://starwars.fandom.com/wiki/Main_Page))
+- Star Trucker
+- **Star Wars** (via [Wookiepedia](https://starwars.fandom.com/wiki/Main_Page))
+- Starcom
+- Starminer
+- StarRupture
+- Stellar Warfare
 - Stellaris
+- Transcendence
+- Underspace
+- Universe Sandbox
+- X4 Foundations
+- Xerxes Shadow
+
+## Space Franchises
+
+- Miles From Tommorrowland	(Series)
+- Project Hail Mary	(Movie)
+- Star Wars	
 
 ## Channels
 
