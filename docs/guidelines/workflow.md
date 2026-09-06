@@ -204,22 +204,29 @@ flowchart LR
     Lag["Lagrange"]
     B.TeF["Terraforge (Builder)"]
     P.TeF["Terraforge"]
+    B.StarEx["Star System Explorer (Builder)"]
+    P.StarEx["Star System Explorer"]
     
     subgraph A["Build Planet"]
     direction TD
         Q1{"Scientifically accurate and detailed?"}
 
         Q1 --YES--> N:::hidden
+            N --> B.StarEx
+            N --> Q2
         Q1 --NO--> Q2
-        N --> B.TeF
-        N --> S
 
-        B.TeF --> Q2
-        S --> Q2
+
+        B.StarEx --> Q2
 
         Q2{"is the resulted planet very similar to earth?"}
         Q2 --YES--> B.Oro
-        Lag
+        Q2 --NO--> Lag
+
+        Q3{"Adding more attributes to the planet?"}
+        Q3 --YES--> Lag
+
+
         B.TeF
 
     end
@@ -228,6 +235,7 @@ flowchart LR
 
     subgraph B[Place]
     direction TD
+        DISCLAIMER["Place the planetary system and not arranging its bodies"]
         P.TeF
     end
 

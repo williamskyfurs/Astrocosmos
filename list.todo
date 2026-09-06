@@ -3,7 +3,7 @@
 ☐ Define preferred assets file format
 ☐ define Knowledg hierarchy
     (aka, how real life science overrided by world's fact/information)
-☐ Research the pattern of a wiki articles
+
 ☐ Badges for quick navigations
 ☐ Define usage of folders clearly
     ☐ templates is for "What you write"
@@ -12,6 +12,14 @@
 ☐ Emojize documents
 ☐ Embed mermaid js file in markdown
 ☐ gitignore programming scripts/files inside content
+☐ vscode multi workspace 
+    ☐ with the same settings
+    ☐ celestia's git is detected
+
+Template:
+    
+    ☐ separte clearly script for pydantic and calculation so it reusable
+    ☐ Make in-class json and toml
 
 Content:
     ☐ Make a ship comparison
