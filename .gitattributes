@@ -10,6 +10,10 @@ content/**/*.md linguist-detectable
 templates/**/*.md linguist-documentation=false
 templates/**/*.md linguist-detectable
 
+# this repo also start to use custom file extension
+*.ltf linguist-language=TOML
+*.ltt linguist-language=TOML
+
 # html in content/ must not detected as language, since its used for data and graphic
 content/**/*.html linguist-documentation=true
 content/**/*.html linguist-vendored=true
