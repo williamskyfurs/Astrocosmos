@@ -7,6 +7,8 @@ tags: []
 
 Space Vehicles (_or often generally and inclusively called "Spaceships"_) are vehicle that do not have ground-contact as its primary movement component
 
+<!-- <https://starwars.fandom.com/wiki/Starship> -->
+
 ## History
 
 ---
@@ -21,13 +23,13 @@ The compartments of a payloads are, but not exclusively limited to,
 flight control station, propulsion bus control station and maintenance center, astrogation station, accomodation, other decks, bays, and passages. 
 This payload compartments are much more complicated than the next two, therefore this will be described in detail after them.
 
-![](/vehicles/spaceships/_assets/image.png)
+![temporary image](/vehicles/spaceships/_assets/image.png)
 
 The base which payload stored or holded are called **structure**, which is the skeleton and skin of the spacecraft. 
 Included in both Propulsion Bus and Payload Section. 
 The compartments of structure are Frame (which divided into thrust frame and space frame), Armor, Shield, and Wing. 
 
-![](/vehicles/spaceships/_assets/image-1.png)
+![tempoart image](/vehicles/spaceships/_assets/image-1.png)
 
 The **propulsion bus** is … . 
 This section includes Engine, Thruster, Power plant, Propellant, Fuel, Anchor

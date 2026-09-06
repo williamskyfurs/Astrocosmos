@@ -1,7 +1,5 @@
 ---
 title: Welcome to Astrocosmos
-cssclasses:
-  - landing
 ---
 
 <div align=center>
@@ -11,7 +9,10 @@ cssclasses:
 
 ---
 
-![Static Badge](https://img.shields.io/badge/Repository-brightgreen?style=for-the-badge&logo=github&logoSize=auto&label=GitHub&link=https%3A%2F%2Fgithub.com%2Flynnhubbz%2FAstrocosmos)
+[![Static Badge](https://img.shields.io/badge/Repository-brightgreen?style=for-the-badge&logo=github&logoSize=auto&label=GitHub)](https://https://github.com/lynnhubbz/Astrocosmos) 
+
+[![Static Badge](https://img.shields.io/badge/Start%20from%20here!-orange?style=for-the-badge&label=Make%20your%20own%2C&color=purple)](https://github.com/lynnhubbz/Astrocosmos/wiki)
+
 
 
 *There is no star, brighter than you!*
