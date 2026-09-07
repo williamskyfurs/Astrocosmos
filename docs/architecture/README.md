@@ -1,5 +1,9 @@
 Documents how and why decision are made
 
+- markdown for document files
+
+    widely used, very plain text, and it will be converted into html when build to site
+
 - toml as entry data:
 
     I could not find any file format that are special to worldbuilding. i did find one but it is no recenlty (last year) updated.
@@ -8,4 +12,10 @@ Documents how and why decision are made
 
     toml is balanced, (LOL PROBABLY), yaml is too human, while json is too machine.
 
-    
+### Graphic Files
+
+- stl or obj as **3d files**
+
+    this will be converted into cmod files during build to celestia
+
+- svg   
