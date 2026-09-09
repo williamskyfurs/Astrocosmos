@@ -1,54 +1,57 @@
-☐ community standards
-☐ Make ASTROCOSMOS project and its workflow available for non-programmers
-☐ Define preferred assets file format
-☐ define Knowledg hierarchy
-    (aka, how real life science overrided by world's fact/information)
+/* ====================================================================== */
+/* CONTENT                                                                */
+/* ====================================================================== */
 
-☐ Badges for quick navigations
+☐ Define Knowledge hierarchy (how real-world science is overridden by in-world fact)
+☐ Make a ship comparison
+☐ File for "translating" other space entities into Astrocosmos canon
+☐ Units/scale standardization doc
+    (distance, time, currency — galactic scale means this bites early if undefined)
+    ☐ Making list of this terms and its sync script
+
+Research:
+    ☐ Military hierarchy
+    ☐ Military units (Crew → Squad → Section → Platoon → Staffel → Company → Battalion → Wing → Regiment → Division → Corps → Army → Fleet)
+    ☐ Known celestial body sizes
+
+/* ====================================================================== */
+/* TECHNICAL                                                              */
+/* ====================================================================== */
+
+☐ Community standards
+☐ Make ASTROCOSMOS project and its workflow available for non-programmers
+☐ Badges for quick navigation
 ☐ Define usage of folders clearly
-    ☐ templates is for "What you write"
-    ☐ guidelines/content is for "How you write (and how can you submit)"
-☐ How can we use antivirus on pullrequests?
+    ☐ templates = "what you write"
+    ☐ guidelines/content = "how you write / submit"
+☐ How can we use antivirus on pull requests?
 ☐ Emojize documents
 ☐ Embed mermaid js file in markdown
 ☐ gitignore programming scripts/files inside content
-☐ vscode multi workspace 
-    ☐ with the same settings
-    ☐ celestia's git is detected
+☐ vscode multi workspace
+    ☐ shared settings across workspace
+    ☐ Celestia's git detected
+☐ Define preferred assets file format
+☐ File sync script
+    ✔ Excel @done
+    ☐ Unified submission directory
+        ✔ Concept brainstormed @done
+        ☐ Make blank yml list
+        ☐ Sync script (must also fix internal links)
 
 Template:
-    
-    ☐ separte clearly script for pydantic and calculation so it reusable
+    ☐ Separate script for pydantic vs calculation (reusability)
     ☐ Make in-class json and toml
 
-Content:
-    ☐ Make a ship comparison
-    ☐ MAKE A FILE FOR "TRANSLATING" OTHER SPACE ENTITIES INTO ASTROCOSMOS
-    Research:
-        Military:
-            ☐ Research on military hierarchy
+☐ Connected Navbar & Explorer (mirrored nav/explorer tree)
+☐ Quartz plugin to view previous git tag
+☐ Auto-generate discussion on PR merge
+    ✔ Giscus @done
+    ☐ route into correct category (not one bucket)
+☐ Canon contradiction-tracking process
+    (multi-contributor galactic worldbuilding will generate conflicts —
+     decide who arbitrates and where disputes get logged before it's needed)
 
-            ☐ Research on military units
-                Currently: Crew	Squad	Section	Platoon	Staffel		Company	Battalion	Wing	Regiment		Division	Corps	Army	Fleet
-    ☐ Research on known celestial body sizes
-
-LEAST PRIORITIZED:
-    ☐ Connected Navbar n Explorer
-        ☐ if navbar item is A, then explorer item A childrens, 
-        Navbar Items:
-            ☐ Home
-            ☐ Content
-            ☐ Making Your Own (Template)
-                ☐ turn readme into index after packing other markdowns
-            ☐ Docs
-                ☐ rename readmes into index
-    ☐ Quartz plugin to view previous git tag
-    ☐ Auto generate discussion when a pullrequest is merged
-        ✔ GISCUS! @done (8/16/2026, 5:06:34 PM)
-        ☐ but need to have to be put in certain category rather than one
-    ☐ File sync script
-        ✔ Excel @done (8/16/2026, 5:06:38 PM)
-    ✔ unified submission directory. blank Folder with script that read yml file to copy/sync its content to their respective folder @done (8/20/2026, 9:37:39 PM) Already brainstormed neatly
-        ☐ Make a blank yml list
-        ☐ Make a script to sync
-            ☐ the script must fix the links inside the docs
+/* ====================================================================== */
+/* CLEARLY DONE                                                           */
+/* ====================================================================== */
