@@ -14,6 +14,8 @@ sex or gender, gender identity or expression, sexual orientation,
 language, philosophy or religion, national or social origin, socio-economic position, level of education, or other status.
 The same privileges of participation are extended to everyone who participates in good faith and in accordance with this Covenant. 
 
+> [!WARNING] Public Draft
+
 ## Eligibility
 
 Interaction in this repository is limited to:

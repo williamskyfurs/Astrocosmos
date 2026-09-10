@@ -25,6 +25,7 @@ Astrocosmos is collaborative galactic-scale worldbuilding project.
 This repository serves as a creative archive and cloud save for this project.
 [] collaborators to help refine, expand, and reimagine the universe.
 
+
 ### NEWS
 
 **Will be updated extremely slowly cuz of college and unfinished promises QwQ**
@@ -37,10 +38,16 @@ Astrocosmos was established on **June 25, 2025**—marking the beginning of a un
 
 ## How To Interact With This Project
 
-- ... License
-- We documented rules as [code of conduct, here!](WIP)
 - You want to contribute or submit your creation? start from [here: the Author-side wiki](https://github.com/lynnhubbz/Astrocosmos/wiki)! 
-<!-- - our [contributing and its guidelines, here!](/docs/CONTRIBUTING.md) -->
+
+- ... License
+
+  > [!NOTE]
+  > **Astrocosmos is source-available, not open source. We call it "collaborative source"** — the Content and code are visible and freely usable within the terms of our license, and the Project welcomes community contributions, but this does not meet the Open Source Initiative's Open Source Definition (specifically: participation is limited to certain eligible contributors, and commercial use of Content requires separate permission). See LICENSE.md for the actual terms.
+
+- We documented rules as [code of conduct, here!](WIP)
+
+- our [contributing and its guidelines, here!](/docs/CONTRIBUTING.md)
 
 ## Utilities
 

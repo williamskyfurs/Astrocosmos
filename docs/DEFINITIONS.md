@@ -2,6 +2,8 @@
 VERSION: draft
 ---
 
+> [!WARNING] Public Draft
+
 The words of which the initial letter is capitalized have meanings defined below. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural. Thus, for the purposes of these legal documents:
 
 <!-- Perspective Words -->

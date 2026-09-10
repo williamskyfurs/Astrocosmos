@@ -6,6 +6,8 @@ VERSION: draft
 
 Jump to [here](#next-steps-) if want to quick navigate
 
+> [!WARNING] Public Draft
+
 ## Definitions.
 
 This document used the definitions stated in [DEFINITIONS.md](DEFINITIONS.md).

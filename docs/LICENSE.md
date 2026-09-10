@@ -4,12 +4,14 @@ VERSION: draft
 
 # ASTROCOSMOS LICENSE
 
-Astrocosmos is a collaborative worldbuilding project
-
+Astrocosmos is a collaborative worldbuilding project.
+**It is source-available, not open source. 
+We call it "collaborative source"** — the Content and code are visible and freely usable within the terms of our license, 
+and the Project welcomes community contributions, but this does not meet the Open Source Initiative's Open Source Definition (specifically: participation is limited to certain eligible contributors, and commercial use of Content requires separate permission).
 <!-- 
 My GOAL here, as a note for me if i want to update AND if someone want to review
 
-Astrocosmos Content is free to use, including commercially; 
+Astrocosmos Content is free to use; 
 
 Astrocosmos itself is not a product to be resold. 
 
@@ -22,6 +24,8 @@ Contributions become part of Astrocosmos canon without necessarily transferring 
 
 -->
 
+
+> [!WARNING] Public Draft
 ## Section 1 - Definitions.
 
 This document used the definitions stated in [DEFINITIONS.md](DEFINITIONS.md).
