@@ -19,11 +19,11 @@ And be sure to check out other document as well!
 ### Our Legal Documents
 LICENSEs CONTRIBUTINGs CODE_OF_CONDUCTs
 
-This document is a work in progress and does not represent the
+These legal documents are work in progress and does not represent the
 final license governing this project.
 
-Do not rely on this document as a grant of rights or permissions.
-The authoritative terms are those stated in the current LICENSE file.
+Do not rely on these documents as a grant of rights or permissions.
+The authoritative terms are those stated in the root LICENSE file.
 
 ### About the World
 
