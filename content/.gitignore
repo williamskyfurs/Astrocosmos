@@ -11,3 +11,7 @@
 .chronicler-cache/
 .chronicler.vault.json
 .chronicler/
+
+### Obsidian ###
+# config dir
+.obsidian/
