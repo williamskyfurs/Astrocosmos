@@ -29,4 +29,6 @@ And be sure to check out other document as well!
 
 > WIP
 
+- [An article about worldbuilding directory structure](article/directory_structure.md)
+
 <!--sync-end-->
