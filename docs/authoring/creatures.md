@@ -1,0 +1,2 @@
+folders are named with scientific name (which consisted of genera and species) delimited by dash.
+if the creature had not yet named scientifically, the famous nickname for it can be used for temporary 

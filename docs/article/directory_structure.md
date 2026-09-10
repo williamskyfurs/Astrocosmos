@@ -20,7 +20,7 @@
 - I also see other structure
 - im trying to be universal as far as i could
   - this also means by using omni-sciential perspective to the world
-- my principes: structured by category, except location which are structured by from general to specific
+- the principes: structured by category, except location which are structured by from general to specific
 
 ## Level One (Root)
 
@@ -148,13 +148,13 @@ Worldbuilding
 │       ├── Creatures
 │       ├── Fauna
 │       ├── Flora
-│       ├── Geology                             # grouped as `resource`
+│       ├── Geology\
 │       │   ├── Gemology
 │       │   ├── Minerology
 │       │   └── Structural
 │       ├── Natural Phenomena
 │       │   └── Weather
-│       ├── Natural Resources                   # grouped as `resource`
+│       ├── Natural Resources
 │       └── Places
 │           ├── Artificial
 │           │   ├── Cities
@@ -257,7 +257,7 @@ Worldbuilding
   - `Thematic` are named into `Events`
   - The `timeline` are changed into a file/folder that sort/structurize this even chronologically
 
-- "Divinity" perfetly groups these below, because somehow deties and religion are related to divine things
+- change "Divinity" to groups these below, because somehow deties and religion are related to divine things
   - Gods & Deities
   - Religions : the belief aspect of the current `religion and belief `
 
@@ -270,13 +270,17 @@ Worldbuilding
   - that groups (the models, "class", "blueprint" of )cyborg and android
   - "notable" robot character are placed under proposed `characters`
 
-> [!NOTE] i think there is somekind of term that groups
+- a proposed folder "resource" that groups these below
+  - Natural Resource
+  - Geology
+
+> [!NOTE] i think there is somekind of term that groups 
 >   - magic
 >   - physics
 >   - phenomena
 >   - AND MAAYBE JUST MAYBE, 
->       - resource
 >       - astronomy
+> "`natural_law` ?"
 
 The proposed structure will be explained at the nexxt section
 
