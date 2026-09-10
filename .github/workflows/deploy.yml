@@ -1,0 +1,107 @@
+name: Quartz Build and Deploy
+
+on:
+  workflow_call: # This makes the workflow reusable
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Quartz Engine
+        uses: actions/checkout@v6
+        with:
+          ref: quartz-test
+
+      - name: Checkout content from main branch
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          path: main-branch
+          fetch-depth: 0
+
+      - name: Debug copied content
+        run: |
+          ls -la main-branch
+          ls -la main-branch/content
+          find main-branch/content -maxdepth 2 -type f | sort
+          find content -maxdepth 2 -type f | sort
+
+      - name: Prepare content directory
+        run: |
+          rm -rf content
+          cp -a main-branch/content content
+          cp -a main-branch/assets content/_assets
+          rm -rf main-branch
+
+      - name: Check for case-duplicate content paths
+        run: |
+          dupes=$(find content -mindepth 1 -printf '%P\n' | tr 'A-Z' 'a-z' | sort | uniq -d)
+          if [ -n "$dupes" ]; then
+            echo "::error::Case-duplicate paths in content tree:"
+            echo "$dupes"
+            exit 1
+          fi
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Cache dependencies
+        uses: actions/cache@v5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Cache Quartz plugins
+        uses: actions/cache@v5
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-plugins-
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Install Quartz Plugins from config
+        run: npm run quartz -- plugin install --from-config
+
+      - name: Build Quartz
+        run: npm run quartz -- build
+
+      - name: Check for case-duplicate output paths
+        run: |
+          dupes=$(find public -mindepth 1 -printf '%P\n' | tr 'A-Z' 'a-z' | sort | uniq -d)
+          if [ -n "$dupes" ]; then
+            echo "::error::Case-duplicate paths in build output:"
+            echo "$dupes"
+            exit 1
+          fi
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+ 
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

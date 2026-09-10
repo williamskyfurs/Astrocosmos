@@ -1,7 +1,5 @@
 ---
 title: Welcome to Astrocosmos
-cssclasses:
-  - landing
 ---
 
 <div align=center>
@@ -11,7 +9,10 @@ cssclasses:
 
 ---
 
-![Static Badge](https://img.shields.io/badge/Repository-brightgreen?style=for-the-badge&logo=github&logoSize=auto&label=GitHub&link=https%3A%2F%2Fgithub.com%2Flynnhubbz%2FAstrocosmos)
+[![Static Badge](https://img.shields.io/badge/Repository-brightgreen?style=for-the-badge&logo=github&logoSize=auto&label=GitHub)](https://https://github.com/lynnhubbz/Astrocosmos) 
+
+[![Static Badge](https://img.shields.io/badge/Start%20from%20here!-orange?style=for-the-badge&label=Make%20your%20own%2C&color=purple)](https://github.com/lynnhubbz/Astrocosmos/wiki)
+
 
 
 *There is no star, brighter than you!*
@@ -49,27 +50,27 @@ Astrocosmos lorem ipsum ..
 
 <div class="issue-grid">
 
-  <a class="issue-card" href="./Locations">
+  <a class="issue-card" href="/locations">
     <span class="issue-name">Locations</span>
   </a>
 
-  <a class="issue-card" href="./Creatures">
+  <a class="issue-card" href="/creatures">
     <span class="issue-name">Creatures</span>
   </a>
 
-  <a class="issue-card" href="./Vehicles">
+  <a class="issue-card" href="/technology/transportations/">
     <span class="issue-name">Vehicles</span>
   </a>
 
-  <a class="issue-card" href="./Timelines">
+  <a class="issue-card" href="/chronology">
     <span class="issue-name">Timeline</span>
   </a>
 
-  <a class="issue-card" href="./Divinity">
+  <a class="issue-card" href="/divinity">
     <span class="issue-name">Gods & Deities</span>
   </a>
 
-  <a class="issue-card" href="./Characters">
+  <a class="issue-card" href="/characters">
     <span class="issue-name">Characters</span>
   </a>
 

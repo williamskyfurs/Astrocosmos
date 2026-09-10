@@ -28,3 +28,7 @@ In short and summarized, the workflow for this centralized is:
 8. fetch
 
 See the complete workflow [here](../docs/guidelines/workflow.md#submission-folder-workflow)
+
+## Consideration ...
+
+Should this directory be, recommendedly, gittracked not as submodule but separate repo

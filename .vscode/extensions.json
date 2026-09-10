@@ -1,6 +1,8 @@
 {
     "recommendations": [
         "saeris.markdown-github-alerts",
-        "ltvan.markdown-wiki-links"
+        "ltvan.markdown-wiki-links",
+        "sketchbuch.vsc-workspace-sidebar",
+        "swellaby.workspace-config-plus"
     ]
 }

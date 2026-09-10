@@ -1,0 +1,3 @@
+includes:
+- resource
+- its product
