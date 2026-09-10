@@ -43,9 +43,10 @@ Astrocosmos was established on **June 25, 2025**—marking the beginning of a un
 - ... License
 
   > [!NOTE]
+  >
   > **Astrocosmos is source-available, not open source. We call it "collaborative source"** — the Content and code are visible and freely usable within the terms of our license, and the Project welcomes community contributions, but this does not meet the Open Source Initiative's Open Source Definition (specifically: participation is limited to certain eligible contributors, and commercial use of Content requires separate permission). See LICENSE.md for the actual terms.
 
-- We documented rules as [code of conduct, here!](WIP)
+- We documented rules as [code of conduct, here!](/docs/CODE_OF_CONDUCT.md)
 
 - our [contributing and its guidelines, here!](/docs/CONTRIBUTING.md)
 
