@@ -1,1 +1,1 @@
-E:/Authoring/Astrocosmos/main/docs/article/directory_structure.md
+../article/directory_structure.md
