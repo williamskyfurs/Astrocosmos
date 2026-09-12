@@ -1,7 +1,7 @@
 ---
-title: {{TITLE}}
+title: "{{TITLE}}"
 tags:
-    - explorerexclude
+  - explorerexclude
 ---
 
 <!-- CONTENT_HERE -->

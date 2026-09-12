@@ -1,10 +1,16 @@
 # Decisions on file formats
 
-- markdown for document files
+## Cnsdireation
+
+## Decisions
+
+### Entry Data
+
+- **markdown** for document files
 
     widely used, very plain text, and it will be converted into html when build to site
 
-- toml as entry data:
+- **toml** as entry data:
 
     I could not find any file format that are special to worldbuilding. i did find one but it is no recenlty (last year) updated.
     

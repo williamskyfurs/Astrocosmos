@@ -2,7 +2,9 @@
 
 Not personalized with utility i did have/made before, please consider this choices.
 
-## Condition for a Counter-Cons to be Accepted
+## Consideration
+
+Condition for a Counter-Cons to be Accepted
 
 Also additional consideration for me to decide
 
@@ -12,9 +14,20 @@ Also additional consideration for me to decide
 
 > Each counter-con below is marked **PASS** / **PARTIAL** / **FAIL** against these three conditions.
 
+## Available Option
+
+1. The structure is Nested by containment down to the celestial body
+2. The structure is organised by what a thing *is*, not where it is
+
+## Decision
+
+Let me decide
+
 ---
 
-## Option 1 — Capped Nesting
+## Detail of The Available Options
+
+### Option 1 — Capped Nesting
 
 Nest by containment down to the celestial body, then switch to category inside it.
 
@@ -73,7 +86,7 @@ locations/
 
 ---
 
-## Option 2 — By Category
+### Option 2 — By Category
 
 The structure is organised by what a thing *is*, not where it is.
 
@@ -127,27 +140,27 @@ locations/
 
 ## Summary
 
-| Criterion | Option 1 (capped) | Option 2 (category) |
-|---|---|---|
-| **1. Shortest link** | Moderate paths, short names. | Short paths, but long names once collision prefixes are added. |
-| **2. Minimum utility** | Containment and per-body aggregation free; setting-wide aggregation needs a script. | Type aggregation free; containment needs a manual list per planet. |
-| **3. Non-programmer friendly** | Moderate on both filing and browsing; one extra sentence to teach. | Easiest to file, hardest to browse. |
-| **Rules to learn** | 2 | 1 |
-| **Orphans (stations, fleets)** | Needs `unbound/` | Native |
-| **Empty scaffolding** | Minor | None |
-| **Survives reclassification** | Well | Well |
-| **Duplicate-entry risk** | Low | High |
-| **Matches stated principle** | Yes | No |
-| **Accepted counter-cons** | 5 PASS, 1 PARTIAL, 1 FAIL | 1 PASS, 2 PARTIAL, 3 FAIL |
+| Criterion                      | Option 1 (capped)                                                                   | Option 2 (category)                                                |
+| ------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **1. Shortest link**           | Moderate paths, short names.                                                        | Short paths, but long names once collision prefixes are added.     |
+| **2. Minimum utility**         | Containment and per-body aggregation free; setting-wide aggregation needs a script. | Type aggregation free; containment needs a manual list per planet. |
+| **3. Non-programmer friendly** | Moderate on both filing and browsing; one extra sentence to teach.                  | Easiest to file, hardest to browse.                                |
+| **Rules to learn**             | 2                                                                                   | 1                                                                  |
+| **Orphans (stations, fleets)** | Needs `unbound/`                                                                    | Native                                                             |
+| **Empty scaffolding**          | Minor                                                                               | None                                                               |
+| **Survives reclassification**  | Well                                                                                | Well                                                               |
+| **Duplicate-entry risk**       | Low                                                                                 | High                                                               |
+| **Matches stated principle**   | Yes                                                                                 | No                                                                 |
+| **Accepted counter-cons**      | 5 PASS, 1 PARTIAL, 1 FAIL                                                           | 1 PASS, 2 PARTIAL, 3 FAIL                                          |
 
 **Sub-option comparison (link style), applies to Option 1:**
 
-| | Relative links | Wikilinks |
-|---|---|---|
-| Link length | Grows with depth | Constant |
-| Filename length | Short — path disambiguates | Must be globally unique → longer |
-| Survives file moves | No | Yes |
-| Non-programmer | Familiar | Needs an Obsidian-style resolver |
+|                     | Relative links             | Wikilinks                        |
+| ------------------- | -------------------------- | -------------------------------- |
+| Link length         | Grows with depth           | Constant                         |
+| Filename length     | Short — path disambiguates | Must be globally unique → longer |
+| Survives file moves | No                         | Yes                              |
+| Non-programmer      | Familiar                   | Needs an Obsidian-style resolver |
 
 > Option 1's depth cap is what keeps relative links viable, so this choice stays open rather than being forced.
 
@@ -160,6 +173,3 @@ locations/
 5. Option 2 is the only option consistent with how the rest of the repo is organised. That consistency has real onboarding value, and is the strongest argument against Option 1.
 6. Option 1's `unbound/` folder and Option 2's `structures/` category solve the same problem. If orphan entities turn out to be common in Astrocosmos, that weakens Option 1's case, since `unbound/` would stop being an edge case and become a second primary tree.
 
-## Decision
-
-Let me decide
