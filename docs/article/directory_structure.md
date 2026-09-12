@@ -20,7 +20,11 @@
 - I also see other structure
 - im trying to be universal as far as i could
   - this also means by using omni-sciential perspective to the world
-- the principes: structured by category, except location which are structured by from general to specific
+- the principes: 
+  - Make names as short and descriptive as possible
+  - Make directory shallow but still distinguishable
+  - Maximizing links and minimizing symlinks/hardlinks
+  - structured by category, except location which are structured by from general to specific
 
 ## Level One (Root)
 
@@ -200,7 +204,7 @@ Worldbuilding
 │   ├── Legendary Figures
 │   ├── People of Interest
 │   └── Villains
-├── Politics                                    # confused
+├── Politics
 │   ├── Alliances & Agreements
 │   ├── City States
 │   ├── Conflicts & War
@@ -235,11 +239,6 @@ Worldbuilding
     └── Transportation
 ```
 
-
-- technology are now explicitly include miscellaneous science
-- therefore `Astronomy & Cosmology` be put under `technology`
-  - im building a galactic world, thats why im confused
-
 - the folder `Notable Individuals` be named into `characters` or `individuals` with the current children as proposed tags
   - Family tree file lives here
 
@@ -257,9 +256,14 @@ Worldbuilding
   - `Thematic` are named into `Events`, and the current `Conflicts & War` under `Politics` is ommited cuz redundancy 
   - The `timeline` are changed into a file/folder that sort/structurize this even chronologically
 
-- change "Divinity" to groups these below, because somehow deties and religion are related to divine things
-  - Gods & Deities
-  - Religions : the belief aspect of the current `religion and belief `
+- a proposed folder "materials" at root that groups these below
+  - `Natural Resource` & `Geology` (ommited from `geography`) as `resource` or other
+  - the entity/item aspect of `Production` (from `technology`) as `products`
+    - the tech to make this products are placed in the current `Production` under `Technology`
+
+- a proposed folder "natural_law" at root that groups these below, omitting them from current `geography`
+  - magic and/or physics
+  - phenomena
 
 - a proposed folder "institutions" at root that groups these below 
   - the collective-individual aspect of the current `religion and belief`   
@@ -268,20 +272,34 @@ Worldbuilding
     - With `Alliances & Agreements` as linked section of the polities' entry
     - with this, the current `Politics` folder is ommited
 
+- `Geography` is named into `Locations`
+  - From the change made before this, the remaining item under the current `Geography` is:
+    - Cartography
+    - Metaphysical
+    - Physical/Places ...
+  - These remaining items then rearranged as follow:
+    > [!NOTE] im confused with this
+    >
+    > Especially about settlemetnys
+    > - Village goes? institutions or places?
+
+- change "Divinity" to groups these below, because somehow deties and religion are related to divine things
+  - Gods & Deities
+  - Religions : the belief aspect of the current `religion and belief `
+
 - a proposed folder "robot" under technology
   - that groups (the models, "class", "blueprint" of )cyborg and android
   - "notable" robot character are placed under proposed `characters`
 
-- a proposed folder "resource" at root that groups these below
-  - Natural Resource
-  - Geology
 
-- a proposed folder "natural_law" at root that groups
-  - magic and/or physics
-  - phenomena
 
 > [!NOTE] where does  
->   - astronomy
+> - astronomy goes?
+>   - if technology are now explicitly include miscellaneous science
+>   - therefore `Astronomy & Cosmology` could be put under `technology`
+>   - im building a galactic world, thats why im confused
+>
+> 
 
 The proposed structure will be explained at the nexxt section
 
